@@ -1,1 +1,1 @@
-https://veronkyxta.github.io/calculator
+https://veronkyxta.github.io/calculator/
